@@ -2,6 +2,7 @@
 
 <!--
 **Elvisdourado/Elvisdourado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![enter image description here](https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif)
 
 Here are some ideas to get you started:
 
