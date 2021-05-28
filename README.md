@@ -1,11 +1,11 @@
 <p align="center"><img src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif" alt="main" /> </p>
  
 
-<p align="center">Me chamado Elvis Dourado, sobrevivi ao bootcamp da 
+<p align="center">Me chamado Elvis Dourado, concluí o bootcamp da 
 
 <p align="center">IronHack FULLSTACK Web Dev em periodo fullTime 
 
-<p align="center">e estou aberto a oportunidades! 🔭</p>
+<p align="center">em Março de 2021 e estou aberto a oportunidades! 🔭</p>
 
 <!--
 **Elvisdourado/Elvisdourado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
