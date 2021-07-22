@@ -3,7 +3,7 @@
 
 <p align="center">Me chamado Elvis Dourado, concluí o bootcamp em 
 
-<p align="center">Desenvolvimento Web FULL STACK IronHack  em 
+<p align="center">Desenvolvimento Web FULL STACK na IronHack  em 
 
 <p align="center">Março de 2021 e estou aberto a oportunidades! 🔭</p>
 
