@@ -1,11 +1,11 @@
 <p align="center"><img src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif" alt="main" /> </p>
  
 
-<p align="center">Me chamado Elvis Dourado, concluí o bootcamp da 
+<p align="center">Me chamado Elvis Dourado, concluí o bootcamp em 
 
-<p align="center">IronHack FULL STACK Web Dev em periodo fullTime 
+<p align="center">Desenvolvimento Web FULL STACK IronHack  em 
 
-<p align="center">em Março de 2021 e estou aberto a oportunidades! 🔭</p>
+<p align="center">Março de 2021 e estou aberto a oportunidades! 🔭</p>
 
 <p align="center">Meus tres útimos projetos:</p>
 <p align="center">Loja virtual: https://anisberlin.netlify.app/ - Full stack</p>
