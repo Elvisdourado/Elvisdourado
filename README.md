@@ -5,7 +5,7 @@
 
 <p align="center">Desenvolvimento Web FULL STACK na IronHack  em 
 
-<p align="center">Março de 2021 e estou aberto a oportunidades! 🔭</p>
+<p align="center">Março de 2021! 🔭</p>
 
 <p align="center">Meus tres útimos projetos:</p>
 <p align="center">Loja virtual: https://anisberlin.netlify.app/ - Full stack</p>
