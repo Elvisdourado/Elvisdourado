@@ -3,14 +3,14 @@
 
 <p align="center">Me chamado Elvis Dourado, concluí o bootcamp da 
 
-<p align="center">IronHack FULLSTACK Web Dev em periodo fullTime 
+<p align="center">IronHack FULL STACK Web Dev em periodo fullTime 
 
 <p align="center">em Março de 2021 e estou aberto a oportunidades! 🔭</p>
 
 <p align="center">Meus tres útimos projetos:</p>
-<p align="center">Loja virtual: https://anisberlin.netlify.app/ - fullstack</p>
-<p align="center">Consumo de api: https://nutri-mais.netlify.app/ - front + consumo</p>
-<p align="center">Jogo history tale: https://elvisdourado.github.io/Jogo_The_Witcher/ - front + historia</p>
+<p align="center">Loja virtual: https://anisberlin.netlify.app/ - Full stack</p>
+<p align="center">Consumo de api: https://nutri-mais.netlify.app/ - Front + consumo</p>
+<p align="center">Jogo history tale: https://elvisdourado.github.io/Jogo_The_Witcher/ - Front + Historia</p>
 <!--
 **Elvisdourado/Elvisdourado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
